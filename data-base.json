@@ -22,13 +22,13 @@
             "donationReceivedUpdated": false,
             "donationUpdated": false,
             "donations": 6545,
-            "donationsReceived": 4613,
+            "donationsReceived": 4614,
             "lastPollDonation": 30,
-            "lastPollReceived": 57,
+            "lastPollReceived": 1,
             "leaveClan": false,
             "name": "Hokz",
             "tag": "#28RL2LG8",
-            "trophies": 5647,
+            "trophies": 5607,
             "verified": true
         },
         {
@@ -106,13 +106,13 @@
             "donationReceivedUpdated": false,
             "donationUpdated": false,
             "donations": 3595,
-            "donationsReceived": 5783,
+            "donationsReceived": 5871,
             "lastPollDonation": 85,
-            "lastPollReceived": 15,
+            "lastPollReceived": 1,
             "leaveClan": false,
             "name": "K.O.M.A.N.D.O",
             "tag": "#8YGGLYGV0",
-            "trophies": 5303,
+            "trophies": 5332,
             "verified": true
         },
         {
@@ -147,9 +147,9 @@
             "banned": false,
             "donationReceivedUpdated": true,
             "donationUpdated": true,
-            "donations": 3185,
+            "donations": 3273,
             "donationsReceived": 5423,
-            "lastPollDonation": 424,
+            "lastPollDonation": 512,
             "lastPollReceived": 264,
             "leaveClan": false,
             "name": "Maugyn",
@@ -258,7 +258,7 @@
         {
             "banned": false,
             "donationReceivedUpdated": true,
-            "donationUpdated": true,
+            "donationUpdated": false,
             "donations": 7763,
             "donationsReceived": 8090,
             "lastPollDonation": 1549,
@@ -505,7 +505,7 @@
             "leaveClan": false,
             "name": "JOÃO PAULO",
             "tag": "#Y0900RY2C",
-            "trophies": 4869,
+            "trophies": 4848,
             "verified": false
         },
         {
@@ -576,7 +576,7 @@
             "leaveClan": false,
             "name": "Maninho",
             "tag": "#8QL9QV8Y2",
-            "trophies": 5266,
+            "trophies": 5243,
             "verified": false
         }
     ],
