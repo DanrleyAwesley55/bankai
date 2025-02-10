@@ -258,10 +258,10 @@
         {
             "banned": false,
             "donationReceivedUpdated": true,
-            "donationUpdated": false,
-            "donations": 7764,
+            "donationUpdated": true,
+            "donations": 7777,
             "donationsReceived": 8090,
-            "lastPollDonation": 1550,
+            "lastPollDonation": 1563,
             "lastPollReceived": 1122,
             "leaveClan": false,
             "name": "@FANTASMA",
@@ -397,12 +397,12 @@
         },
         {
             "banned": false,
-            "donationReceivedUpdated": false,
+            "donationReceivedUpdated": true,
             "donationUpdated": true,
             "donations": 9023,
-            "donationsReceived": 7253,
+            "donationsReceived": 7311,
             "lastPollDonation": 5493,
-            "lastPollReceived": 5336,
+            "lastPollReceived": 5394,
             "leaveClan": false,
             "name": "Danrley",
             "tag": "#PRV8CCJLU",
@@ -505,7 +505,7 @@
             "leaveClan": false,
             "name": "JOÃO PAULO",
             "tag": "#Y0900RY2C",
-            "trophies": 4882,
+            "trophies": 4892,
             "verified": false
         },
         {
