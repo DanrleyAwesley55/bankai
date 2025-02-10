@@ -119,14 +119,14 @@
             "banned": false,
             "donationReceivedUpdated": true,
             "donationUpdated": true,
-            "donations": 5398,
-            "donationsReceived": 4574,
-            "lastPollDonation": 478,
-            "lastPollReceived": 463,
+            "donations": 5441,
+            "donationsReceived": 4632,
+            "lastPollDonation": 521,
+            "lastPollReceived": 521,
             "leaveClan": false,
             "name": "01",
             "tag": "#8LJRYG9QP",
-            "trophies": 4994,
+            "trophies": 5034,
             "verified": true
         },
         {
@@ -260,13 +260,13 @@
             "donationReceivedUpdated": true,
             "donationUpdated": true,
             "donations": 7396,
-            "donationsReceived": 7738,
+            "donationsReceived": 7826,
             "lastPollDonation": 1182,
-            "lastPollReceived": 770,
+            "lastPollReceived": 858,
             "leaveClan": false,
             "name": "@FANTASMA",
             "tag": "#2UUPQGJU2",
-            "trophies": 5261,
+            "trophies": 5301,
             "verified": true
         },
         {
@@ -406,7 +406,7 @@
             "leaveClan": false,
             "name": "Danrley",
             "tag": "#PRV8CCJLU",
-            "trophies": 5346,
+            "trophies": 5320,
             "verified": true
         },
         {
@@ -427,9 +427,9 @@
             "banned": false,
             "donationReceivedUpdated": false,
             "donationUpdated": false,
-            "donations": 11168,
+            "donations": 11271,
             "donationsReceived": 0,
-            "lastPollDonation": 57,
+            "lastPollDonation": 58,
             "lastPollReceived": 0,
             "leaveClan": false,
             "name": "Danrley II",
@@ -576,7 +576,7 @@
             "leaveClan": false,
             "name": "Maninho",
             "tag": "#8QL9QV8Y2",
-            "trophies": 5300,
+            "trophies": 5277,
             "verified": false
         }
     ],
