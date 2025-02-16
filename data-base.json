@@ -199,7 +199,7 @@
             "leaveClan": false,
             "name": "Maugyn",
             "tag": "#LVQ9C80",
-            "trophies": 5147,
+            "trophies": 5131,
             "verified": true
         },
         {
@@ -213,7 +213,7 @@
             "leaveClan": false,
             "name": "Giovanni5antos",
             "tag": "#UG8890Y8",
-            "trophies": 5038,
+            "trophies": 5078,
             "verified": true
         },
         {
@@ -339,7 +339,7 @@
             "leaveClan": false,
             "name": "JGY -⭐️M@RCIO⭐️",
             "tag": "#L0CYU2VG",
-            "trophies": 4935,
+            "trophies": 4908,
             "verified": true
         },
         {
@@ -443,10 +443,10 @@
         {
             "banned": false,
             "donationReceivedUpdated": true,
-            "donationUpdated": false,
-            "donations": 13383,
+            "donationUpdated": true,
+            "donations": 13468,
             "donationsReceived": 10223,
-            "lastPollDonation": 9853,
+            "lastPollDonation": 9938,
             "lastPollReceived": 8306,
             "leaveClan": false,
             "name": "Danrley",
