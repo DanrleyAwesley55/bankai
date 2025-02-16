@@ -129,7 +129,7 @@
             "leaveClan": false,
             "name": "HayabusA",
             "tag": "#YU9P9ULL",
-            "trophies": 5058,
+            "trophies": 5048,
             "verified": true
         },
         {
@@ -178,14 +178,14 @@
             "banned": false,
             "donationReceivedUpdated": false,
             "donationUpdated": false,
-            "donations": 2200,
-            "donationsReceived": 5032,
-            "lastPollDonation": 86,
+            "donations": 2255,
+            "donationsReceived": 5148,
+            "lastPollDonation": 55,
             "lastPollReceived": 58,
             "leaveClan": false,
             "name": "Israel",
             "tag": "#YCVJQJQ8",
-            "trophies": 5320,
+            "trophies": 5400,
             "verified": true
         },
         {
@@ -207,13 +207,13 @@
             "donationReceivedUpdated": false,
             "donationUpdated": false,
             "donations": 6738,
-            "donationsReceived": 4630,
+            "donationsReceived": 4715,
             "lastPollDonation": 84,
-            "lastPollReceived": 58,
+            "lastPollReceived": 85,
             "leaveClan": false,
             "name": "Giovanni5antos",
             "tag": "#UG8890Y8",
-            "trophies": 4998,
+            "trophies": 5038,
             "verified": true
         },
         {
@@ -283,7 +283,7 @@
             "leaveClan": false,
             "name": "KOHAKU㊗",
             "tag": "#2RJJL0JQ8",
-            "trophies": 3589,
+            "trophies": 3605,
             "verified": true
         },
         {
@@ -319,13 +319,13 @@
             "donationReceivedUpdated": false,
             "donationUpdated": false,
             "donations": 2467,
-            "donationsReceived": 2379,
+            "donationsReceived": 2437,
             "lastPollDonation": 54,
-            "lastPollReceived": 10,
+            "lastPollReceived": 58,
             "leaveClan": false,
             "name": "Lord Carlo II",
             "tag": "#Y2CYPQYC",
-            "trophies": 5204,
+            "trophies": 5244,
             "verified": true
         },
         {
@@ -395,7 +395,7 @@
             "leaveClan": false,
             "name": "carlos",
             "tag": "#29LJQPP0L",
-            "trophies": 5321,
+            "trophies": 5361,
             "verified": true
         },
         {
@@ -423,7 +423,7 @@
             "leaveClan": false,
             "name": "JR. BASTOS",
             "tag": "#9QULP2LL",
-            "trophies": 5514,
+            "trophies": 5492,
             "verified": true
         },
         {
@@ -443,11 +443,11 @@
         {
             "banned": false,
             "donationReceivedUpdated": true,
-            "donationUpdated": true,
-            "donations": 13264,
-            "donationsReceived": 10168,
-            "lastPollDonation": 9734,
-            "lastPollReceived": 8251,
+            "donationUpdated": false,
+            "donations": 13383,
+            "donationsReceived": 10223,
+            "lastPollDonation": 9853,
+            "lastPollReceived": 8306,
             "leaveClan": false,
             "name": "Danrley",
             "tag": "#PRV8CCJLU",
@@ -472,9 +472,9 @@
             "banned": false,
             "donationReceivedUpdated": false,
             "donationUpdated": false,
-            "donations": 15345,
+            "donations": 15400,
             "donationsReceived": 0,
-            "lastPollDonation": 58,
+            "lastPollDonation": 55,
             "lastPollReceived": 0,
             "leaveClan": false,
             "name": "Danrley II",
@@ -490,7 +490,7 @@
             "donationsReceived": 0,
             "lastPollDonation": 0,
             "lastPollReceived": 0,
-            "leaveClan": false,
+            "leaveClan": true,
             "name": "ligonic",
             "tag": "#LP8Q8UY8C",
             "trophies": 3814,
@@ -521,7 +521,7 @@
             "leaveClan": false,
             "name": "Lord Carlo",
             "tag": "#28Q8GCP0R",
-            "trophies": 5360,
+            "trophies": 5374,
             "verified": true
         },
         {
@@ -591,7 +591,7 @@
             "leaveClan": false,
             "name": "kmoura",
             "tag": "#9LQGYGRYU",
-            "trophies": 4325,
+            "trophies": 4341,
             "verified": true
         },
         {
@@ -605,7 +605,7 @@
             "leaveClan": false,
             "name": "vbr3x",
             "tag": "#PV0JVR0P",
-            "trophies": 4746,
+            "trophies": 4726,
             "verified": false
         },
         {
@@ -619,7 +619,7 @@
             "leaveClan": false,
             "name": "L.A BOSS",
             "tag": "#2PRJ98GYV",
-            "trophies": 4967,
+            "trophies": 5047,
             "verified": false
         }
     ],
