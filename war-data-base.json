@@ -82,7 +82,7 @@
             "#YCVJQJQ8",
             6,
             4,
-            false,
+            true,
             false,
             true
         ],
@@ -171,9 +171,9 @@
             "Lord Carlo II",
             "#Y2CYPQYC",
             6,
-            4,
+            5,
             true,
-            false,
+            true,
             true
         ],
         [
@@ -281,7 +281,7 @@
             6,
             3,
             true,
-            false,
+            true,
             true
         ],
         [
