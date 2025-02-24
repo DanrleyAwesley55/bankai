@@ -81,9 +81,9 @@
             "donationReceivedUpdated": false,
             "donationUpdated": false,
             "donations": 3809,
-            "donationsReceived": 8805,
+            "donationsReceived": 8863,
             "lastPollDonation": 30,
-            "lastPollReceived": 1,
+            "lastPollReceived": 58,
             "leaveClan": false,
             "name": "biel17",
             "tag": "#88UV2CVVJ",
@@ -134,7 +134,7 @@
         },
         {
             "banned": false,
-            "donationReceivedUpdated": true,
+            "donationReceivedUpdated": false,
             "donationUpdated": true,
             "donations": 3671,
             "donationsReceived": 6355,
@@ -143,7 +143,7 @@
             "leaveClan": false,
             "name": "BruNo",
             "tag": "#PYJV0PRP0",
-            "trophies": 5517,
+            "trophies": 5557,
             "verified": true
         },
         {
@@ -319,7 +319,7 @@
             "donationReceivedUpdated": false,
             "donationUpdated": false,
             "donations": 3382,
-            "donationsReceived": 3571,
+            "donationsReceived": 3626,
             "lastPollDonation": 58,
             "lastPollReceived": 55,
             "leaveClan": false,
@@ -400,16 +400,16 @@
         },
         {
             "banned": false,
-            "donationReceivedUpdated": true,
+            "donationReceivedUpdated": false,
             "donationUpdated": true,
-            "donations": 6784,
+            "donations": 6897,
             "donationsReceived": 2597,
-            "lastPollDonation": 2531,
+            "lastPollDonation": 2644,
             "lastPollReceived": 900,
             "leaveClan": false,
             "name": "Jackwalker",
             "tag": "#990RLQV0",
-            "trophies": 4736,
+            "trophies": 4756,
             "verified": true
         },
         {
@@ -499,7 +499,7 @@
         {
             "banned": false,
             "donationReceivedUpdated": true,
-            "donationUpdated": true,
+            "donationUpdated": false,
             "donations": 2120,
             "donationsReceived": 3426,
             "lastPollDonation": 165,
