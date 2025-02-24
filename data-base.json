@@ -1,6 +1,6 @@
 {
-    "onSeasonEnd": false,
-    "onSeasonStart": true,
+    "onSeasonEnd": true,
+    "onSeasonStart": false,
     "players": [
         {
             "banReason": "Confusão por não ir pra guerra, no grupo",
