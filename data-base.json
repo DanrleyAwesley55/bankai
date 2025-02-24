@@ -192,9 +192,9 @@
             "banned": false,
             "donationReceivedUpdated": true,
             "donationUpdated": true,
-            "donations": 6357,
+            "donations": 6412,
             "donationsReceived": 9822,
-            "lastPollDonation": 4,
+            "lastPollDonation": 59,
             "lastPollReceived": 88,
             "leaveClan": false,
             "name": "Maugyn",
@@ -206,14 +206,14 @@
             "banned": false,
             "donationReceivedUpdated": false,
             "donationUpdated": false,
-            "donations": 9812,
-            "donationsReceived": 5893,
-            "lastPollDonation": 111,
-            "lastPollReceived": 6,
+            "donations": 9823,
+            "donationsReceived": 5918,
+            "lastPollDonation": 11,
+            "lastPollReceived": 25,
             "leaveClan": false,
             "name": "Giovanni5antos",
             "tag": "#UG8890Y8",
-            "trophies": 5175,
+            "trophies": 5215,
             "verified": true
         },
         {
@@ -248,14 +248,14 @@
             "banned": false,
             "donationReceivedUpdated": false,
             "donationUpdated": false,
-            "donations": 13723,
+            "donations": 13753,
             "donationsReceived": 8880,
-            "lastPollDonation": 7,
+            "lastPollDonation": 30,
             "lastPollReceived": 56,
             "leaveClan": false,
             "name": "Edson Roccia",
             "tag": "#QUV9V890",
-            "trophies": 4980,
+            "trophies": 5020,
             "verified": true
         },
         {
@@ -325,7 +325,7 @@
             "leaveClan": false,
             "name": "Lord Carlo II",
             "tag": "#Y2CYPQYC",
-            "trophies": 5053,
+            "trophies": 5093,
             "verified": true
         },
         {
@@ -487,9 +487,9 @@
             "donationReceivedUpdated": false,
             "donationUpdated": false,
             "donations": 3446,
-            "donationsReceived": 4909,
+            "donationsReceived": 4980,
             "lastPollDonation": 80,
-            "lastPollReceived": 40,
+            "lastPollReceived": 55,
             "leaveClan": false,
             "name": "Lord Carlo",
             "tag": "#28Q8GCP0R",
@@ -507,7 +507,7 @@
             "leaveClan": false,
             "name": "Maninho",
             "tag": "#8QL9QV8Y2",
-            "trophies": 5473,
+            "trophies": 5500,
             "verified": true
         },
         {
@@ -563,7 +563,7 @@
             "leaveClan": false,
             "name": "Even Piell",
             "tag": "#YQQ0V0GU",
-            "trophies": 4721,
+            "trophies": 4712,
             "verified": false
         },
         {
