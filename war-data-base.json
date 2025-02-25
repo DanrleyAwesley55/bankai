@@ -64,7 +64,7 @@
             "#8YGGLYGV0",
             7,
             1,
-            false,
+            true,
             false,
             true
         ],
@@ -81,8 +81,8 @@
             "Israel",
             "#YCVJQJQ8",
             7,
-            5,
-            false,
+            6,
+            true,
             false,
             true
         ],
