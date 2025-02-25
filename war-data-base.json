@@ -118,8 +118,8 @@
             "#JLL8LLQ9",
             4,
             1,
-            false,
-            false,
+            true,
+            true,
             true
         ],
         [
@@ -334,7 +334,7 @@
             "#P98GV9QP",
             2,
             1,
-            false,
+            true,
             false,
             true
         ],
