@@ -66,14 +66,14 @@
             "banned": false,
             "donationReceivedUpdated": false,
             "donationUpdated": false,
-            "donations": 2037,
+            "donations": 2089,
             "donationsReceived": 1148,
-            "lastPollDonation": 30,
+            "lastPollDonation": 52,
             "lastPollReceived": 4,
             "leaveClan": false,
             "name": "Hokz",
             "tag": "#28RL2LG8",
-            "trophies": 5313,
+            "trophies": 5281,
             "verified": true
         },
         {
@@ -129,7 +129,7 @@
             "leaveClan": false,
             "name": "HayabusA",
             "tag": "#YU9P9ULL",
-            "trophies": 4925,
+            "trophies": 4957,
             "verified": true
         },
         {
@@ -249,9 +249,9 @@
             "donationReceivedUpdated": false,
             "donationUpdated": false,
             "donations": 2745,
-            "donationsReceived": 1276,
+            "donationsReceived": 1328,
             "lastPollDonation": 56,
-            "lastPollReceived": 55,
+            "lastPollReceived": 52,
             "leaveClan": false,
             "name": "Edson Roccia",
             "tag": "#QUV9V890",
@@ -507,7 +507,7 @@
             "leaveClan": false,
             "name": "Maninho",
             "tag": "#8QL9QV8Y2",
-            "trophies": 5039,
+            "trophies": 5082,
             "verified": true
         },
         {
@@ -633,7 +633,7 @@
             "leaveClan": false,
             "name": "LordArthur",
             "tag": "#8JRV8LLJR",
-            "trophies": 2576,
+            "trophies": 2567,
             "verified": true
         }
     ],
