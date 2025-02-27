@@ -157,7 +157,7 @@
             "leaveClan": false,
             "name": "K.O.M.A.N.D.O",
             "tag": "#8YGGLYGV0",
-            "trophies": 5326,
+            "trophies": 5295,
             "verified": true
         },
         {
@@ -171,7 +171,7 @@
             "leaveClan": false,
             "name": "01",
             "tag": "#8LJRYG9QP",
-            "trophies": 4820,
+            "trophies": 4803,
             "verified": true
         },
         {
@@ -248,14 +248,14 @@
             "banned": false,
             "donationReceivedUpdated": false,
             "donationUpdated": false,
-            "donations": 2689,
+            "donations": 2745,
             "donationsReceived": 1276,
-            "lastPollDonation": 7,
+            "lastPollDonation": 56,
             "lastPollReceived": 55,
             "leaveClan": false,
             "name": "Edson Roccia",
             "tag": "#QUV9V890",
-            "trophies": 5010,
+            "trophies": 5050,
             "verified": true
         },
         {
@@ -346,14 +346,14 @@
             "banned": false,
             "donationReceivedUpdated": false,
             "donationUpdated": false,
-            "donations": 1658,
-            "donationsReceived": 1128,
-            "lastPollDonation": 2,
-            "lastPollReceived": 40,
+            "donations": 1698,
+            "donationsReceived": 1186,
+            "lastPollDonation": 40,
+            "lastPollReceived": 56,
             "leaveClan": false,
             "name": "Arthur",
             "tag": "#20UJ9CCVL",
-            "trophies": 5310,
+            "trophies": 5375,
             "verified": true
         },
         {
@@ -423,7 +423,7 @@
             "leaveClan": false,
             "name": "JR. BASTOS",
             "tag": "#9QULP2LL",
-            "trophies": 5042,
+            "trophies": 5006,
             "verified": true
         },
         {
@@ -445,13 +445,13 @@
             "donationReceivedUpdated": false,
             "donationUpdated": false,
             "donations": 1911,
-            "donationsReceived": 1742,
+            "donationsReceived": 1800,
             "lastPollDonation": 30,
             "lastPollReceived": 58,
             "leaveClan": false,
             "name": "Danrley",
             "tag": "#PRV8CCJLU",
-            "trophies": 5286,
+            "trophies": 5326,
             "verified": true
         },
         {
@@ -465,16 +465,16 @@
             "leaveClan": false,
             "name": "alpha I",
             "tag": "#2PUP9JYJC",
-            "trophies": 5129,
+            "trophies": 5112,
             "verified": true
         },
         {
             "banned": false,
             "donationReceivedUpdated": false,
             "donationUpdated": false,
-            "donations": 2730,
+            "donations": 2790,
             "donationsReceived": 0,
-            "lastPollDonation": 98,
+            "lastPollDonation": 58,
             "lastPollReceived": 0,
             "leaveClan": false,
             "name": "Danrley II",
@@ -493,7 +493,7 @@
             "leaveClan": false,
             "name": "Lord Carlo",
             "tag": "#28Q8GCP0R",
-            "trophies": 5093,
+            "trophies": 5067,
             "verified": true
         },
         {
@@ -507,7 +507,7 @@
             "leaveClan": false,
             "name": "Maninho",
             "tag": "#8QL9QV8Y2",
-            "trophies": 5060,
+            "trophies": 5039,
             "verified": true
         },
         {
@@ -625,15 +625,15 @@
         {
             "banned": false,
             "donationReceivedUpdated": false,
-            "donationUpdated": false,
-            "donations": 0,
-            "donationsReceived": 72,
-            "lastPollDonation": 0,
+            "donationUpdated": true,
+            "donations": 2,
+            "donationsReceived": 114,
+            "lastPollDonation": 2,
             "lastPollReceived": 2,
             "leaveClan": false,
             "name": "LordArthur",
             "tag": "#8JRV8LLJR",
-            "trophies": 2547,
+            "trophies": 2576,
             "verified": true
         }
     ],
