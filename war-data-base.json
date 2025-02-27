@@ -9,8 +9,8 @@
             "Hokz",
             "#28RL2LG8",
             8,
-            7,
-            false,
+            8,
+            true,
             false,
             true
         ],
@@ -99,8 +99,8 @@
             "Giovanni5antos",
             "#UG8890Y8",
             7,
-            5,
-            false,
+            6,
+            true,
             false,
             true
         ],
@@ -218,7 +218,7 @@
             1,
             0,
             true,
-            false,
+            true,
             true
         ],
         [
