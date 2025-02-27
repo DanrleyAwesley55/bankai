@@ -66,10 +66,10 @@
             "banned": false,
             "donationReceivedUpdated": false,
             "donationUpdated": false,
-            "donations": 1542,
-            "donationsReceived": 916,
-            "lastPollDonation": 1,
-            "lastPollReceived": 37,
+            "donations": 1630,
+            "donationsReceived": 971,
+            "lastPollDonation": 88,
+            "lastPollReceived": 55,
             "leaveClan": false,
             "name": "Hokz",
             "tag": "#28RL2LG8",
@@ -115,7 +115,7 @@
             "leaveClan": false,
             "name": "homero",
             "tag": "#8CPGYLVY2",
-            "trophies": 5236,
+            "trophies": 5196,
             "verified": true
         },
         {
@@ -129,7 +129,7 @@
             "leaveClan": false,
             "name": "HayabusA",
             "tag": "#YU9P9ULL",
-            "trophies": 4915,
+            "trophies": 4925,
             "verified": true
         },
         {
@@ -171,7 +171,7 @@
             "leaveClan": false,
             "name": "01",
             "tag": "#8LJRYG9QP",
-            "trophies": 4845,
+            "trophies": 4820,
             "verified": true
         },
         {
@@ -204,12 +204,12 @@
         },
         {
             "banned": false,
-            "donationReceivedUpdated": true,
+            "donationReceivedUpdated": false,
             "donationUpdated": false,
             "donations": 1059,
-            "donationsReceived": 440,
+            "donationsReceived": 528,
             "lastPollDonation": 193,
-            "lastPollReceived": 440,
+            "lastPollReceived": 88,
             "leaveClan": false,
             "name": "Giovanni5antos",
             "tag": "#UG8890Y8",
@@ -248,9 +248,9 @@
             "banned": false,
             "donationReceivedUpdated": false,
             "donationUpdated": false,
-            "donations": 2340,
+            "donations": 2395,
             "donationsReceived": 1014,
-            "lastPollDonation": 190,
+            "lastPollDonation": 55,
             "lastPollReceived": 25,
             "leaveClan": false,
             "name": "Edson Roccia",
@@ -423,7 +423,7 @@
             "leaveClan": false,
             "name": "JR. BASTOS",
             "tag": "#9QULP2LL",
-            "trophies": 5137,
+            "trophies": 5107,
             "verified": true
         },
         {
