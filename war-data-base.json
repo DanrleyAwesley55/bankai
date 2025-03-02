@@ -108,9 +108,9 @@
             "hidekiJp",
             "#RQL2998R",
             9,
-            5,
+            6,
             true,
-            false,
+            true,
             true
         ],
         [
@@ -137,7 +137,7 @@
             9,
             2,
             true,
-            false,
+            true,
             true
         ],
         [
@@ -162,8 +162,8 @@
             "@FANTASMA",
             "#2UUPQGJU2",
             9,
-            8,
-            false,
+            9,
+            true,
             false,
             true
         ],
