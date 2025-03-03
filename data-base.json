@@ -87,7 +87,7 @@
             "leaveClan": false,
             "name": "biel17",
             "tag": "#88UV2CVVJ",
-            "trophies": 5254,
+            "trophies": 5214,
             "verified": true
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "banned": false,
-            "donationReceivedUpdated": true,
+            "donationReceivedUpdated": false,
             "donationUpdated": true,
             "donations": 273,
             "donationsReceived": 1857,
@@ -143,7 +143,7 @@
             "leaveClan": false,
             "name": "BruNo",
             "tag": "#PYJV0PRP0",
-            "trophies": 5161,
+            "trophies": 5201,
             "verified": true
         },
         {
@@ -443,7 +443,7 @@
         {
             "banned": false,
             "donationReceivedUpdated": true,
-            "donationUpdated": true,
+            "donationUpdated": false,
             "donations": 4164,
             "donationsReceived": 3680,
             "lastPollDonation": 444,
