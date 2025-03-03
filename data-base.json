@@ -66,7 +66,7 @@
             "banned": false,
             "donationReceivedUpdated": false,
             "donationUpdated": false,
-            "donations": 3455,
+            "donations": 3458,
             "donationsReceived": 2077,
             "lastPollDonation": 3,
             "lastPollReceived": 57,
@@ -137,13 +137,13 @@
             "donationReceivedUpdated": true,
             "donationUpdated": true,
             "donations": 213,
-            "donationsReceived": 1625,
+            "donationsReceived": 1628,
             "lastPollDonation": 123,
-            "lastPollReceived": 467,
+            "lastPollReceived": 470,
             "leaveClan": false,
             "name": "BruNo",
             "tag": "#PYJV0PRP0",
-            "trophies": 5157,
+            "trophies": 5127,
             "verified": true
         },
         {
@@ -168,7 +168,7 @@
             "donationsReceived": 1535,
             "lastPollDonation": 57,
             "lastPollReceived": 18,
-            "leaveClan": false,
+            "leaveClan": true,
             "name": "01",
             "tag": "#8LJRYG9QP",
             "trophies": 4852,
@@ -283,7 +283,7 @@
             "leaveClan": false,
             "name": "KOHAKU㊗",
             "tag": "#2RJJL0JQ8",
-            "trophies": 4286,
+            "trophies": 4291,
             "verified": true
         },
         {
@@ -479,7 +479,7 @@
             "leaveClan": false,
             "name": "Danrley II",
             "tag": "#PVL2RLRUQ",
-            "trophies": 1611,
+            "trophies": 1601,
             "verified": true
         },
         {
