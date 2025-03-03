@@ -305,13 +305,13 @@
             "donationReceivedUpdated": false,
             "donationUpdated": false,
             "donations": 3186,
-            "donationsReceived": 1052,
+            "donationsReceived": 1170,
             "lastPollDonation": 30,
-            "lastPollReceived": 1,
+            "lastPollReceived": 118,
             "leaveClan": false,
             "name": "@FANTASMA",
             "tag": "#2UUPQGJU2",
-            "trophies": 4984,
+            "trophies": 4981,
             "verified": true
         },
         {
@@ -409,7 +409,7 @@
             "leaveClan": false,
             "name": "Jackwalker",
             "tag": "#990RLQV0",
-            "trophies": 4718,
+            "trophies": 4742,
             "verified": true
         },
         {
@@ -444,9 +444,9 @@
             "banned": false,
             "donationReceivedUpdated": true,
             "donationUpdated": true,
-            "donations": 4046,
+            "donations": 4164,
             "donationsReceived": 3680,
-            "lastPollDonation": 326,
+            "lastPollDonation": 444,
             "lastPollReceived": 378,
             "leaveClan": false,
             "name": "Danrley",
