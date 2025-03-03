@@ -95,9 +95,9 @@
             "donationReceivedUpdated": false,
             "donationUpdated": false,
             "donations": 142,
-            "donationsReceived": 732,
+            "donationsReceived": 748,
             "lastPollDonation": 1,
-            "lastPollReceived": 4,
+            "lastPollReceived": 16,
             "leaveClan": false,
             "name": "pedro",
             "tag": "#QR8V989P",
@@ -134,7 +134,7 @@
         },
         {
             "banned": false,
-            "donationReceivedUpdated": true,
+            "donationReceivedUpdated": false,
             "donationUpdated": true,
             "donations": 213,
             "donationsReceived": 1740,
@@ -457,7 +457,7 @@
         {
             "banned": false,
             "donationReceivedUpdated": true,
-            "donationUpdated": true,
+            "donationUpdated": false,
             "donations": 909,
             "donationsReceived": 1865,
             "lastPollDonation": 482,
@@ -465,7 +465,7 @@
             "leaveClan": false,
             "name": "alpha I",
             "tag": "#2PUP9JYJC",
-            "trophies": 5320,
+            "trophies": 5331,
             "verified": true
         },
         {
@@ -493,7 +493,7 @@
             "leaveClan": false,
             "name": "Lord Carlo",
             "tag": "#28Q8GCP0R",
-            "trophies": 5318,
+            "trophies": 5350,
             "verified": true
         },
         {
