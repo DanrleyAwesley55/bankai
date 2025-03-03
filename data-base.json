@@ -67,9 +67,9 @@
             "donationReceivedUpdated": false,
             "donationUpdated": false,
             "donations": 3772,
-            "donationsReceived": 2251,
+            "donationsReceived": 2252,
             "lastPollDonation": 30,
-            "lastPollReceived": 57,
+            "lastPollReceived": 1,
             "leaveClan": false,
             "name": "Hokz",
             "tag": "#28RL2LG8",
@@ -150,9 +150,9 @@
             "banned": false,
             "donationReceivedUpdated": false,
             "donationUpdated": false,
-            "donations": 1882,
+            "donations": 1883,
             "donationsReceived": 3536,
-            "lastPollDonation": 55,
+            "lastPollDonation": 1,
             "lastPollReceived": 58,
             "leaveClan": false,
             "name": "K.O.M.A.N.D.O",
@@ -493,7 +493,7 @@
             "leaveClan": false,
             "name": "Lord Carlo",
             "tag": "#28Q8GCP0R",
-            "trophies": 5296,
+            "trophies": 5336,
             "verified": true
         },
         {
@@ -507,7 +507,7 @@
             "leaveClan": false,
             "name": "Maninho",
             "tag": "#8QL9QV8Y2",
-            "trophies": 5031,
+            "trophies": 5047,
             "verified": true
         },
         {
