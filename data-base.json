@@ -67,13 +67,13 @@
             "donationReceivedUpdated": false,
             "donationUpdated": false,
             "donations": 3772,
-            "donationsReceived": 2252,
+            "donationsReceived": 2310,
             "lastPollDonation": 30,
-            "lastPollReceived": 1,
+            "lastPollReceived": 58,
             "leaveClan": false,
             "name": "Hokz",
             "tag": "#28RL2LG8",
-            "trophies": 5542,
+            "trophies": 5571,
             "verified": true
         },
         {
@@ -81,13 +81,13 @@
             "donationReceivedUpdated": false,
             "donationUpdated": false,
             "donations": 330,
-            "donationsReceived": 2320,
+            "donationsReceived": 2378,
             "lastPollDonation": 30,
-            "lastPollReceived": 1,
+            "lastPollReceived": 58,
             "leaveClan": false,
             "name": "biel17",
             "tag": "#88UV2CVVJ",
-            "trophies": 5240,
+            "trophies": 5254,
             "verified": true
         },
         {
@@ -115,7 +115,7 @@
             "leaveClan": false,
             "name": "homero",
             "tag": "#8CPGYLVY2",
-            "trophies": 5259,
+            "trophies": 5233,
             "verified": true
         },
         {
@@ -409,7 +409,7 @@
             "leaveClan": false,
             "name": "Jackwalker",
             "tag": "#990RLQV0",
-            "trophies": 4693,
+            "trophies": 4718,
             "verified": true
         },
         {
@@ -423,7 +423,7 @@
             "leaveClan": false,
             "name": "JR. BASTOS",
             "tag": "#9QULP2LL",
-            "trophies": 5058,
+            "trophies": 5094,
             "verified": true
         },
         {
@@ -443,7 +443,7 @@
         {
             "banned": false,
             "donationReceivedUpdated": true,
-            "donationUpdated": true,
+            "donationUpdated": false,
             "donations": 3882,
             "donationsReceived": 3680,
             "lastPollDonation": 162,
@@ -472,9 +472,9 @@
             "banned": false,
             "donationReceivedUpdated": false,
             "donationUpdated": false,
-            "donations": 5525,
+            "donations": 5527,
             "donationsReceived": 0,
-            "lastPollDonation": 108,
+            "lastPollDonation": 2,
             "lastPollReceived": 0,
             "leaveClan": false,
             "name": "Danrley II",
@@ -507,7 +507,7 @@
             "leaveClan": false,
             "name": "Maninho",
             "tag": "#8QL9QV8Y2",
-            "trophies": 5047,
+            "trophies": 5074,
             "verified": true
         },
         {
@@ -577,7 +577,7 @@
             "leaveClan": false,
             "name": "Clasher",
             "tag": "#P98GV9QP",
-            "trophies": 4795,
+            "trophies": 4786,
             "verified": false
         },
         {
