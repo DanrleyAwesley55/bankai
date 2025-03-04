@@ -409,7 +409,7 @@
             "leaveClan": false,
             "name": "Jackwalker",
             "tag": "#990RLQV0",
-            "trophies": 4789,
+            "trophies": 4820,
             "verified": true
         },
         {
@@ -456,12 +456,12 @@
         },
         {
             "banned": false,
-            "donationReceivedUpdated": false,
+            "donationReceivedUpdated": true,
             "donationUpdated": true,
             "donations": 1242,
-            "donationsReceived": 2284,
+            "donationsReceived": 2372,
             "lastPollDonation": 815,
-            "lastPollReceived": 979,
+            "lastPollReceived": 1067,
             "leaveClan": false,
             "name": "alpha I",
             "tag": "#2PUP9JYJC",
