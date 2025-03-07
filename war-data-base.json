@@ -9,9 +9,9 @@
             "Hokz",
             "#28RL2LG8",
             2,
-            0,
-            false,
-            false,
+            2,
+            true,
+            true,
             true
         ],
         [
@@ -145,7 +145,7 @@
             "#2RJJL0JQ8",
             1,
             0,
-            false,
+            true,
             false,
             true
         ],
