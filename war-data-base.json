@@ -81,9 +81,9 @@
             "Israel",
             "#YCVJQJQ8",
             2,
-            1,
+            2,
             true,
-            false,
+            true,
             true
         ],
         [
@@ -101,7 +101,7 @@
             2,
             0,
             true,
-            false,
+            true,
             true
         ],
         [
@@ -110,7 +110,7 @@
             1,
             0,
             true,
-            false,
+            true,
             true
         ],
         [
@@ -137,7 +137,7 @@
             1,
             0,
             true,
-            false,
+            true,
             true
         ],
         [
@@ -173,7 +173,7 @@
             1,
             0,
             true,
-            false,
+            true,
             true
         ],
         [
@@ -227,7 +227,7 @@
             1,
             0,
             true,
-            false,
+            true,
             true
         ],
         [
@@ -335,7 +335,7 @@
             1,
             0,
             true,
-            false,
+            true,
             true
         ],
         [
