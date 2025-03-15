@@ -163,15 +163,15 @@
         {
             "banned": false,
             "donationReceivedUpdated": true,
-            "donationUpdated": false,
+            "donationUpdated": true,
             "donations": 2904,
             "donationsReceived": 5355,
-            "lastPollDonation": 2,
-            "lastPollReceived": 2535,
+            "lastPollDonation": 0,
+            "lastPollReceived": 0,
             "leaveClan": false,
             "name": "01",
             "tag": "#8LJRYG9QP",
-            "trophies": 5197,
+            "trophies": 5223,
             "verified": true
         },
         {
@@ -185,7 +185,7 @@
             "leaveClan": false,
             "name": "Israel",
             "tag": "#YCVJQJQ8",
-            "trophies": 5265,
+            "trophies": 5252,
             "verified": true
         },
         {
@@ -311,7 +311,7 @@
             "leaveClan": false,
             "name": "@FANTASMA",
             "tag": "#2UUPQGJU2",
-            "trophies": 4982,
+            "trophies": 4963,
             "verified": true
         },
         {
@@ -423,7 +423,7 @@
             "leaveClan": false,
             "name": "JR. BASTOS",
             "tag": "#9QULP2LL",
-            "trophies": 5271,
+            "trophies": 5239,
             "verified": true
         },
         {
@@ -445,7 +445,7 @@
             "donationReceivedUpdated": false,
             "donationUpdated": true,
             "donations": 8997,
-            "donationsReceived": 6606,
+            "donationsReceived": 6664,
             "lastPollDonation": 5277,
             "lastPollReceived": 58,
             "leaveClan": false,
@@ -472,9 +472,9 @@
             "banned": false,
             "donationReceivedUpdated": false,
             "donationUpdated": false,
-            "donations": 15313,
+            "donations": 15371,
             "donationsReceived": 0,
-            "lastPollDonation": 115,
+            "lastPollDonation": 58,
             "lastPollReceived": 0,
             "leaveClan": false,
             "name": "Danrley II",
