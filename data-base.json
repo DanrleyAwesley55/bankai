@@ -151,9 +151,9 @@
             "donationReceivedUpdated": true,
             "donationUpdated": true,
             "donations": 3637,
-            "donationsReceived": 7255,
+            "donationsReceived": 7310,
             "lastPollDonation": 1274,
-            "lastPollReceived": 2456,
+            "lastPollReceived": 2511,
             "leaveClan": false,
             "name": "K.O.M.A.N.D.O",
             "tag": "#8YGGLYGV0",
@@ -269,7 +269,7 @@
             "leaveClan": false,
             "name": "DingDing",
             "tag": "#CYYVU0U",
-            "trophies": 4479,
+            "trophies": 4511,
             "verified": true
         },
         {
@@ -297,16 +297,16 @@
             "leaveClan": false,
             "name": "SANTAGUIDA",
             "tag": "#JYU28CQJ",
-            "trophies": 4250,
+            "trophies": 4241,
             "verified": true
         },
         {
             "banned": false,
             "donationReceivedUpdated": true,
-            "donationUpdated": true,
-            "donations": 7469,
+            "donationUpdated": false,
+            "donations": 7554,
             "donationsReceived": 2255,
-            "lastPollDonation": 477,
+            "lastPollDonation": 562,
             "lastPollReceived": 88,
             "leaveClan": false,
             "name": "@FANTASMA",
@@ -507,7 +507,7 @@
             "leaveClan": false,
             "name": "Maninho",
             "tag": "#8QL9QV8Y2",
-            "trophies": 5314,
+            "trophies": 5291,
             "verified": true
         },
         {
@@ -571,13 +571,13 @@
             "donationReceivedUpdated": false,
             "donationUpdated": false,
             "donations": 2481,
-            "donationsReceived": 4081,
+            "donationsReceived": 4112,
             "lastPollDonation": 34,
-            "lastPollReceived": 176,
+            "lastPollReceived": 1,
             "leaveClan": false,
             "name": "DESBRAVADOR",
             "tag": "#RLY89U9L",
-            "trophies": 4971,
+            "trophies": 5011,
             "verified": false
         },
         {
