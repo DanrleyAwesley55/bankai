@@ -213,7 +213,7 @@
             "leaveClan": false,
             "name": "Giovanni5antos",
             "tag": "#UG8890Y8",
-            "trophies": 4890,
+            "trophies": 4880,
             "verified": true
         },
         {
@@ -676,6 +676,20 @@
             "name": "•OzzyKiller•™",
             "tag": "#GJC9QUJ8",
             "trophies": 5239,
+            "verified": false
+        },
+        {
+            "banned": false,
+            "donationReceivedUpdated": false,
+            "donationUpdated": false,
+            "donations": 0,
+            "donationsReceived": 0,
+            "lastPollDonation": 0,
+            "lastPollReceived": 0,
+            "leaveClan": false,
+            "name": "Kaio Rodrigues",
+            "tag": "#CYQQQCLY",
+            "trophies": 4866,
             "verified": false
         }
     ],
