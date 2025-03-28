@@ -148,7 +148,7 @@
         },
         {
             "banned": false,
-            "donationReceivedUpdated": true,
+            "donationReceivedUpdated": false,
             "donationUpdated": true,
             "donations": 5775,
             "donationsReceived": 12882,
@@ -185,7 +185,7 @@
             "leaveClan": false,
             "name": "Israel",
             "tag": "#YCVJQJQ8",
-            "trophies": 5739,
+            "trophies": 5707,
             "verified": true
         },
         {
@@ -241,7 +241,7 @@
             "leaveClan": false,
             "name": "Lyn",
             "tag": "#JLL8LLQ9",
-            "trophies": 4922,
+            "trophies": 4897,
             "verified": true
         },
         {
@@ -416,14 +416,14 @@
             "banned": false,
             "donationReceivedUpdated": false,
             "donationUpdated": false,
-            "donations": 8702,
-            "donationsReceived": 3608,
-            "lastPollDonation": 85,
-            "lastPollReceived": 3,
+            "donations": 8790,
+            "donationsReceived": 3666,
+            "lastPollDonation": 88,
+            "lastPollReceived": 58,
             "leaveClan": false,
             "name": "JR. BASTOS",
             "tag": "#9QULP2LL",
-            "trophies": 5455,
+            "trophies": 5483,
             "verified": true
         },
         {
@@ -444,9 +444,9 @@
             "banned": false,
             "donationReceivedUpdated": true,
             "donationUpdated": true,
-            "donations": 14820,
+            "donations": 14878,
             "donationsReceived": 13795,
-            "lastPollDonation": 2161,
+            "lastPollDonation": 2219,
             "lastPollReceived": 2342,
             "leaveClan": false,
             "name": "Danrley",
