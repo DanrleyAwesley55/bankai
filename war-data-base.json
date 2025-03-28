@@ -252,9 +252,9 @@
             "Danrley",
             "#PRV8CCJLU",
             9,
-            7,
-            false,
-            false,
+            8,
+            true,
+            true,
             true
         ],
         [
@@ -289,7 +289,7 @@
             "#8QL9QV8Y2",
             9,
             0,
-            false,
+            true,
             false,
             true
         ],
