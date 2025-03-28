@@ -304,9 +304,9 @@
             "banned": false,
             "donationReceivedUpdated": true,
             "donationUpdated": true,
-            "donations": 17515,
+            "donations": 17518,
             "donationsReceived": 7147,
-            "lastPollDonation": 4550,
+            "lastPollDonation": 4553,
             "lastPollReceived": 3470,
             "leaveClan": false,
             "name": "@FANTASMA",
@@ -417,9 +417,9 @@
             "donationReceivedUpdated": false,
             "donationUpdated": false,
             "donations": 8702,
-            "donationsReceived": 3605,
+            "donationsReceived": 3608,
             "lastPollDonation": 85,
-            "lastPollReceived": 55,
+            "lastPollReceived": 3,
             "leaveClan": false,
             "name": "JR. BASTOS",
             "tag": "#9QULP2LL",
@@ -507,7 +507,7 @@
             "leaveClan": false,
             "name": "Maninho",
             "tag": "#8QL9QV8Y2",
-            "trophies": 5284,
+            "trophies": 5309,
             "verified": true
         },
         {
@@ -535,7 +535,7 @@
             "leaveClan": false,
             "name": "kmoura",
             "tag": "#9LQGYGRYU",
-            "trophies": 4344,
+            "trophies": 4369,
             "verified": true
         },
         {
