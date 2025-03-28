@@ -17,10 +17,17 @@
         [
             "biel17",
             "#88UV2CVVJ",
+<<<<<<< Updated upstream
             9,
             4,
             false,
             false,
+=======
+            6,
+            1,
+            true,
+            true,
+>>>>>>> Stashed changes
             true
         ],
         [
@@ -334,9 +341,15 @@
             "#289YQUY9Q",
             3,
             0,
+<<<<<<< Updated upstream
             false,
             false,
             false
+=======
+            true,
+            true,
+            true
+>>>>>>> Stashed changes
         ],
         [
             "✔️Matheus✔️",
