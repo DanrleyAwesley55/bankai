@@ -37,7 +37,7 @@
             "#8CPGYLVY2",
             9,
             12,
-            false,
+            true,
             false,
             true
         ],
@@ -162,8 +162,8 @@
             "@FANTASMA",
             "#2UUPQGJU2",
             9,
-            9,
-            false,
+            10,
+            true,
             false,
             true
         ],
@@ -235,7 +235,7 @@
             "#9QULP2LL",
             8,
             2,
-            false,
+            true,
             false,
             true
         ],
