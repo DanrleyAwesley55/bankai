@@ -148,12 +148,12 @@
         },
         {
             "banned": false,
-            "donationReceivedUpdated": false,
+            "donationReceivedUpdated": true,
             "donationUpdated": true,
             "donations": 5775,
-            "donationsReceived": 12882,
+            "donationsReceived": 12970,
             "lastPollDonation": 3412,
-            "lastPollReceived": 8083,
+            "lastPollReceived": 8171,
             "leaveClan": false,
             "name": "K.O.M.A.N.D.O",
             "tag": "#8YGGLYGV0",
@@ -241,7 +241,7 @@
             "leaveClan": false,
             "name": "Lyn",
             "tag": "#JLL8LLQ9",
-            "trophies": 4897,
+            "trophies": 4918,
             "verified": true
         },
         {
@@ -549,7 +549,7 @@
             "leaveClan": false,
             "name": "Clasher",
             "tag": "#P98GV9QP",
-            "trophies": 4504,
+            "trophies": 4500,
             "verified": false
         },
         {
