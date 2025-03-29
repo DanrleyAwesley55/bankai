@@ -372,16 +372,16 @@
         },
         {
             "banned": false,
-            "donationReceivedUpdated": false,
+            "donationReceivedUpdated": true,
             "donationUpdated": true,
-            "donations": 387,
-            "donationsReceived": 1618,
-            "lastPollDonation": 0,
-            "lastPollReceived": 88,
+            "donations": 445,
+            "donationsReceived": 1706,
+            "lastPollDonation": 58,
+            "lastPollReceived": 176,
             "leaveClan": false,
             "name": "phelipe br",
             "tag": "#YC2U80CQV",
-            "trophies": 4716,
+            "trophies": 4697,
             "verified": true
         },
         {
@@ -431,13 +431,13 @@
             "donationReceivedUpdated": false,
             "donationUpdated": false,
             "donations": 532,
-            "donationsReceived": 672,
+            "donationsReceived": 730,
             "lastPollDonation": 88,
-            "lastPollReceived": 58,
+            "lastPollReceived": 3,
             "leaveClan": false,
             "name": "Henrique",
             "tag": "#29YUU2VLC",
-            "trophies": 4881,
+            "trophies": 4903,
             "verified": true
         },
         {
@@ -633,7 +633,7 @@
             "leaveClan": false,
             "name": "•OzzyKiller•™",
             "tag": "#GJC9QUJ8",
-            "trophies": 4804,
+            "trophies": 4835,
             "verified": false
         },
         {
