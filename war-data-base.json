@@ -162,9 +162,9 @@
             "@FANTASMA",
             "#2UUPQGJU2",
             1,
-            1,
+            2,
             true,
-            false,
+            true,
             true
         ],
         [
@@ -243,9 +243,9 @@
             "Danrley",
             "#PRV8CCJLU",
             1,
-            0,
-            false,
-            false,
+            1,
+            true,
+            true,
             true
         ],
         [
