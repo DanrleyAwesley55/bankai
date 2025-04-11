@@ -162,8 +162,8 @@
             "@FANTASMA",
             "#2UUPQGJU2",
             1,
-            0,
-            false,
+            1,
+            true,
             false,
             true
         ],
@@ -370,7 +370,7 @@
             "#2Y80U8LLC",
             1,
             0,
-            false,
+            true,
             false,
             true
         ],
