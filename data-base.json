@@ -303,10 +303,10 @@
         {
             "banned": false,
             "donationReceivedUpdated": true,
-            "donationUpdated": false,
-            "donations": 7421,
+            "donationUpdated": true,
+            "donations": 7509,
             "donationsReceived": 7835,
-            "lastPollDonation": 146,
+            "lastPollDonation": 234,
             "lastPollReceived": 0,
             "leaveClan": false,
             "name": "@FANTASMA",
@@ -339,7 +339,7 @@
             "leaveClan": false,
             "name": "JGY -⭐️M@RCIO⭐️",
             "tag": "#L0CYU2VG",
-            "trophies": 5148,
+            "trophies": 5108,
             "verified": true
         },
         {
@@ -493,7 +493,7 @@
             "leaveClan": false,
             "name": "Maninho",
             "tag": "#8QL9QV8Y2",
-            "trophies": 5148,
+            "trophies": 5108,
             "verified": true
         },
         {
