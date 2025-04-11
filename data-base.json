@@ -151,7 +151,7 @@
             "donationReceivedUpdated": false,
             "donationUpdated": false,
             "donations": 3933,
-            "donationsReceived": 7656,
+            "donationsReceived": 7744,
             "lastPollDonation": 56,
             "lastPollReceived": 88,
             "leaveClan": false,
@@ -302,12 +302,12 @@
         },
         {
             "banned": false,
-            "donationReceivedUpdated": false,
-            "donationUpdated": false,
-            "donations": 7275,
+            "donationReceivedUpdated": true,
+            "donationUpdated": true,
+            "donations": 7363,
             "donationsReceived": 7835,
-            "lastPollDonation": 58,
-            "lastPollReceived": 88,
+            "lastPollDonation": 88,
+            "lastPollReceived": 0,
             "leaveClan": false,
             "name": "@FANTASMA",
             "tag": "#2UUPQGJU2",
@@ -431,7 +431,7 @@
             "donationReceivedUpdated": false,
             "donationUpdated": false,
             "donations": 7096,
-            "donationsReceived": 5123,
+            "donationsReceived": 5181,
             "lastPollDonation": 88,
             "lastPollReceived": 58,
             "leaveClan": false,
@@ -633,7 +633,7 @@
             "leaveClan": false,
             "name": "WOLVERINE",
             "tag": "#2Y80U8LLC",
-            "trophies": 4681,
+            "trophies": 4708,
             "verified": false
         },
         {
@@ -703,7 +703,7 @@
             "leaveClan": false,
             "name": "JACK",
             "tag": "#9CV0JU80",
-            "trophies": 4752,
+            "trophies": 4837,
             "verified": false
         }
     ],
