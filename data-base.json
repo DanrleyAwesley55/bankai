@@ -171,7 +171,7 @@
             "leaveClan": false,
             "name": "01",
             "tag": "#8LJRYG9QP",
-            "trophies": 4872,
+            "trophies": 4880,
             "verified": true
         },
         {
@@ -305,13 +305,13 @@
             "donationReceivedUpdated": false,
             "donationUpdated": false,
             "donations": 7016,
-            "donationsReceived": 7307,
+            "donationsReceived": 7395,
             "lastPollDonation": 87,
             "lastPollReceived": 88,
             "leaveClan": false,
             "name": "@FANTASMA",
             "tag": "#2UUPQGJU2",
-            "trophies": 5423,
+            "trophies": 5503,
             "verified": true
         },
         {
@@ -402,7 +402,7 @@
             "banned": false,
             "donationReceivedUpdated": false,
             "donationUpdated": false,
-            "donations": 13251,
+            "donations": 13339,
             "donationsReceived": 5024,
             "lastPollDonation": 88,
             "lastPollReceived": 58,
@@ -557,13 +557,13 @@
             "donationReceivedUpdated": false,
             "donationUpdated": false,
             "donations": 2919,
-            "donationsReceived": 2045,
+            "donationsReceived": 2133,
             "lastPollDonation": 58,
-            "lastPollReceived": 87,
+            "lastPollReceived": 88,
             "leaveClan": false,
             "name": "% CORINTHIANO %",
             "tag": "#289YQUY9Q",
-            "trophies": 5273,
+            "trophies": 5297,
             "verified": false
         },
         {
@@ -584,14 +584,14 @@
             "banned": false,
             "donationReceivedUpdated": false,
             "donationUpdated": false,
-            "donations": 2186,
+            "donations": 2274,
             "donationsReceived": 1992,
-            "lastPollDonation": 57,
+            "lastPollDonation": 88,
             "lastPollReceived": 88,
             "leaveClan": false,
             "name": "hypebeast",
             "tag": "#GP8J2CG",
-            "trophies": 5287,
+            "trophies": 5316,
             "verified": false
         },
         {
@@ -689,7 +689,21 @@
             "leaveClan": false,
             "name": "LordOfCity",
             "tag": "#J0VCC2YV",
-            "trophies": 4641,
+            "trophies": 4647,
+            "verified": false
+        },
+        {
+            "banned": false,
+            "donationReceivedUpdated": false,
+            "donationUpdated": false,
+            "donations": 0,
+            "donationsReceived": 0,
+            "lastPollDonation": 0,
+            "lastPollReceived": 0,
+            "leaveClan": false,
+            "name": "JACK",
+            "tag": "#9CV0JU80",
+            "trophies": 4771,
             "verified": false
         }
     ],
