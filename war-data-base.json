@@ -226,7 +226,7 @@
             "#9QULP2LL",
             1,
             0,
-            false,
+            true,
             false,
             true
         ],
@@ -326,7 +326,7 @@
             1,
             0,
             true,
-            false,
+            true,
             true
         ],
         [
@@ -342,9 +342,9 @@
             "hypebeast",
             "#GP8J2CG",
             1,
-            0,
-            false,
-            false,
+            1,
+            true,
+            true,
             true
         ],
         [
