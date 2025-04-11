@@ -37,7 +37,7 @@
             "#8CPGYLVY2",
             1,
             0,
-            false,
+            true,
             false,
             true
         ],
@@ -325,7 +325,7 @@
             "#289YQUY9Q",
             1,
             0,
-            false,
+            true,
             false,
             true
         ],
@@ -404,6 +404,15 @@
         [
             "LordOfCity",
             "#J0VCC2YV",
+            0,
+            0,
+            false,
+            false,
+            false
+        ],
+        [
+            "JACK",
+            "#9CV0JU80",
             0,
             0,
             false,
