@@ -185,7 +185,7 @@
             "leaveClan": false,
             "name": "Israel",
             "tag": "#YCVJQJQ8",
-            "trophies": 5230,
+            "trophies": 5211,
             "verified": true
         },
         {
@@ -283,7 +283,7 @@
             "leaveClan": false,
             "name": "KOHAKU㊗",
             "tag": "#2RJJL0JQ8",
-            "trophies": 4892,
+            "trophies": 4898,
             "verified": true
         },
         {
@@ -308,7 +308,7 @@
             "donationsReceived": 11726,
             "lastPollDonation": 1702,
             "lastPollReceived": 3891,
-            "leaveClan": false,
+            "leaveClan": true,
             "name": "@FANTASMA",
             "tag": "#2UUPQGJU2",
             "trophies": 5260,
