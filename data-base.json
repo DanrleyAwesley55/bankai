@@ -149,15 +149,15 @@
         {
             "banned": false,
             "donationReceivedUpdated": true,
-            "donationUpdated": false,
-            "donations": 7832,
+            "donationUpdated": true,
+            "donations": 7986,
             "donationsReceived": 10904,
-            "lastPollDonation": 619,
+            "lastPollDonation": 773,
             "lastPollReceived": 438,
             "leaveClan": false,
             "name": "K.O.M.A.N.D.O",
             "tag": "#8YGGLYGV0",
-            "trophies": 5560,
+            "trophies": 5548,
             "verified": true
         },
         {
@@ -241,7 +241,7 @@
             "leaveClan": false,
             "name": "Lyn",
             "tag": "#JLL8LLQ9",
-            "trophies": 4855,
+            "trophies": 4873,
             "verified": true
         },
         {
@@ -535,7 +535,7 @@
             "leaveClan": false,
             "name": "Clasher",
             "tag": "#P98GV9QP",
-            "trophies": 4935,
+            "trophies": 4928,
             "verified": false
         },
         {
@@ -605,7 +605,7 @@
             "leaveClan": false,
             "name": "•OzzyKiller•™",
             "tag": "#GJC9QUJ8",
-            "trophies": 4939,
+            "trophies": 4938,
             "verified": false
         },
         {
@@ -675,7 +675,7 @@
             "leaveClan": false,
             "name": "Santts7",
             "tag": "#9VV8P8P20",
-            "trophies": 3501,
+            "trophies": 3400,
             "verified": false
         },
         {
@@ -697,13 +697,13 @@
             "donationReceivedUpdated": false,
             "donationUpdated": false,
             "donations": 429,
-            "donationsReceived": 292,
+            "donationsReceived": 350,
             "lastPollDonation": 50,
             "lastPollReceived": 58,
             "leaveClan": false,
             "name": "JACK",
             "tag": "#9CV0JU80",
-            "trophies": 5005,
+            "trophies": 5073,
             "verified": false
         }
     ],
