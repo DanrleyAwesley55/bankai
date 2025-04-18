@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
+}
+#index-table tr th{
+	padding: 10px;
+} 
+
+.container {
+    display: flex;
+    width: 100%;
+    background: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.column {
+    flex: 1;
+    padding: 20px;
+    box-sizing: border-box;
+    overflow-y: auto;
+    max-height: 90vh;
+}
+
+.column h2 {
+    text-align: center;
+    margin-top: 0;
+}
+
+.checkbox-group {
+    position: sticky;
+    top: 0;
+    background: white;
+    z-index: 1;
+    padding-bottom: 10px;
+}
+
+.checkbox-group label {
+    display: block;
+    margin: 10px 0;
+}
+
+.floating-links {
+    position: fixed; /* Fixa na tela */
+    top: 0px; /* Sempre no topo */
+    left: 0px; /* Sempre no canto esquerdo */
+    width: 110px; /* Defina o tamanho desejado */
+    height: 25px;
+    background-color: #ffd7a3; /* Cor de fundo */
+    margin: 0;
+    z-index: 1000; /* Garante que fique acima de outros elementos */
+}
+
+.floating-links a {
+    color:rgb(83, 80, 255);
+    font-size: 20px;
+    text-decoration: none;
+}
+.floating-links a:hover {
+    color:rgba(241, 154, 22, 0.753);
+}
