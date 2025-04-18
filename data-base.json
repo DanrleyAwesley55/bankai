@@ -206,7 +206,7 @@
             "banned": false,
             "donationReceivedUpdated": false,
             "donationUpdated": false,
-            "donations": 1387,
+            "donations": 1475,
             "donationsReceived": 817,
             "lastPollDonation": 88,
             "lastPollReceived": 113,
@@ -306,12 +306,12 @@
             "donationUpdated": true,
             "donations": 8977,
             "donationsReceived": 11726,
-            "lastPollDonation": 1702,
-            "lastPollReceived": 3891,
-            "leaveClan": true,
+            "lastPollDonation": 0,
+            "lastPollReceived": 0,
+            "leaveClan": false,
             "name": "@FANTASMA",
             "tag": "#2UUPQGJU2",
-            "trophies": 5260,
+            "trophies": 5524,
             "verified": true
         },
         {
@@ -403,13 +403,13 @@
             "donationReceivedUpdated": false,
             "donationUpdated": false,
             "donations": 18230,
-            "donationsReceived": 7860,
+            "donationsReceived": 7948,
             "lastPollDonation": 88,
             "lastPollReceived": 88,
             "leaveClan": false,
             "name": "JR. BASTOS",
             "tag": "#9QULP2LL",
-            "trophies": 5399,
+            "trophies": 5425,
             "verified": true
         },
         {
@@ -563,7 +563,7 @@
             "leaveClan": false,
             "name": "% CORINTHIANO %",
             "tag": "#289YQUY9Q",
-            "trophies": 5381,
+            "trophies": 5365,
             "verified": false
         },
         {
