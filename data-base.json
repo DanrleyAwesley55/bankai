@@ -149,10 +149,10 @@
         {
             "banned": false,
             "donationReceivedUpdated": true,
-            "donationUpdated": false,
-            "donations": 8552,
+            "donationUpdated": true,
+            "donations": 8610,
             "donationsReceived": 11694,
-            "lastPollDonation": 1339,
+            "lastPollDonation": 1397,
             "lastPollReceived": 1228,
             "leaveClan": false,
             "name": "K.O.M.A.N.D.O",
@@ -591,7 +591,7 @@
             "leaveClan": false,
             "name": "hypebeast",
             "tag": "#GP8J2CG",
-            "trophies": 5205,
+            "trophies": 5165,
             "verified": false
         },
         {
