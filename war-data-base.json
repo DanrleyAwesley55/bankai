@@ -19,7 +19,7 @@
             "#88UV2CVVJ",
             4,
             0,
-            false,
+            true,
             false,
             true
         ],
@@ -153,9 +153,9 @@
             "SANTAGUIDA",
             "#JYU28CQJ",
             2,
-            2,
-            false,
-            false,
+            3,
+            true,
+            true,
             true
         ],
         [
