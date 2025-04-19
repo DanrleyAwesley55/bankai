@@ -148,16 +148,16 @@
         },
         {
             "banned": false,
-            "donationReceivedUpdated": true,
+            "donationReceivedUpdated": false,
             "donationUpdated": true,
             "donations": 8408,
-            "donationsReceived": 11256,
+            "donationsReceived": 11344,
             "lastPollDonation": 1195,
-            "lastPollReceived": 790,
+            "lastPollReceived": 878,
             "leaveClan": false,
             "name": "K.O.M.A.N.D.O",
             "tag": "#8YGGLYGV0",
-            "trophies": 5500,
+            "trophies": 5540,
             "verified": true
         },
         {
@@ -171,7 +171,7 @@
             "leaveClan": false,
             "name": "01",
             "tag": "#8LJRYG9QP",
-            "trophies": 5164,
+            "trophies": 5141,
             "verified": true
         },
         {
@@ -255,7 +255,7 @@
             "leaveClan": false,
             "name": "Edson Roccia",
             "tag": "#QUV9V890",
-            "trophies": 5310,
+            "trophies": 5286,
             "verified": true
         },
         {
@@ -423,7 +423,7 @@
             "leaveClan": false,
             "name": "Henrique",
             "tag": "#29YUU2VLC",
-            "trophies": 4886,
+            "trophies": 4892,
             "verified": true
         },
         {
@@ -431,13 +431,13 @@
             "donationReceivedUpdated": false,
             "donationUpdated": false,
             "donations": 11270,
-            "donationsReceived": 8084,
+            "donationsReceived": 8172,
             "lastPollDonation": 116,
             "lastPollReceived": 88,
             "leaveClan": false,
             "name": "Danrley",
             "tag": "#PRV8CCJLU",
-            "trophies": 5419,
+            "trophies": 5459,
             "verified": true
         },
         {
@@ -682,14 +682,14 @@
             "banned": false,
             "donationReceivedUpdated": false,
             "donationUpdated": false,
-            "donations": 5108,
+            "donations": 5372,
             "donationsReceived": 1701,
-            "lastPollDonation": 118,
+            "lastPollDonation": 88,
             "lastPollReceived": 58,
             "leaveClan": false,
             "name": "LordOfCity",
             "tag": "#J0VCC2YV",
-            "trophies": 4911,
+            "trophies": 4922,
             "verified": false
         },
         {
