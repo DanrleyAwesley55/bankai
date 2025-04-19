@@ -162,12 +162,12 @@
         },
         {
             "banned": false,
-            "donationReceivedUpdated": false,
+            "donationReceivedUpdated": true,
             "donationUpdated": true,
             "donations": 3298,
-            "donationsReceived": 3175,
+            "donationsReceived": 3233,
             "lastPollDonation": 730,
-            "lastPollReceived": 691,
+            "lastPollReceived": 749,
             "leaveClan": false,
             "name": "01",
             "tag": "#8LJRYG9QP",
@@ -556,14 +556,14 @@
             "banned": false,
             "donationReceivedUpdated": false,
             "donationUpdated": false,
-            "donations": 5866,
-            "donationsReceived": 4447,
-            "lastPollDonation": 58,
+            "donations": 5954,
+            "donationsReceived": 4535,
+            "lastPollDonation": 88,
             "lastPollReceived": 88,
             "leaveClan": false,
             "name": "% CORINTHIANO %",
             "tag": "#289YQUY9Q",
-            "trophies": 5250,
+            "trophies": 5303,
             "verified": false
         },
         {
@@ -584,14 +584,14 @@
             "banned": false,
             "donationReceivedUpdated": false,
             "donationUpdated": false,
-            "donations": 4529,
-            "donationsReceived": 4310,
+            "donations": 4617,
+            "donationsReceived": 4398,
             "lastPollDonation": 88,
             "lastPollReceived": 88,
             "leaveClan": false,
             "name": "hypebeast",
             "tag": "#GP8J2CG",
-            "trophies": 5189,
+            "trophies": 5213,
             "verified": false
         },
         {
@@ -619,7 +619,7 @@
             "leaveClan": false,
             "name": "geleia29",
             "tag": "#PCGY2RLY",
-            "trophies": 5410,
+            "trophies": 5386,
             "verified": false
         },
         {
@@ -689,7 +689,7 @@
             "leaveClan": false,
             "name": "LordOfCity",
             "tag": "#J0VCC2YV",
-            "trophies": 4968,
+            "trophies": 4990,
             "verified": false
         },
         {
