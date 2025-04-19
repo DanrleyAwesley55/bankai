@@ -8,38 +8,38 @@
         [
             "Hokz",
             "#28RL2LG8",
-            3,
+            4,
             4,
             false,
             false,
-            false
+            true
         ],
         [
             "biel17",
             "#88UV2CVVJ",
-            3,
+            4,
             0,
             false,
             false,
-            false
+            true
         ],
         [
             "pedro",
             "#QR8V989P",
-            3,
+            4,
             4,
             false,
             false,
-            false
+            true
         ],
         [
             "homero",
             "#8CPGYLVY2",
-            3,
+            4,
             3,
             false,
             false,
-            false
+            true
         ],
         [
             "HayabusA",
@@ -62,29 +62,29 @@
         [
             "K.O.M.A.N.D.O",
             "#8YGGLYGV0",
-            3,
+            4,
             6,
             false,
             false,
-            false
+            true
         ],
         [
             "01",
             "#8LJRYG9QP",
-            2,
+            3,
             1,
             false,
             false,
-            false
+            true
         ],
         [
             "Israel",
             "#YCVJQJQ8",
-            3,
+            4,
             6,
             false,
             false,
-            false
+            true
         ],
         [
             "Maugyn",
@@ -98,11 +98,11 @@
         [
             "Giovanni5antos",
             "#UG8890Y8",
-            2,
+            3,
             0,
             false,
             false,
-            false
+            true
         ],
         [
             "hidekiJp",
@@ -116,20 +116,20 @@
         [
             "Lyn",
             "#JLL8LLQ9",
-            1,
+            2,
             0,
             false,
             false,
-            false
+            true
         ],
         [
             "Edson Roccia",
             "#QUV9V890",
-            3,
-            1,
+            4,
+            2,
+            true,
             false,
-            false,
-            false
+            true
         ],
         [
             "DingDing",
@@ -152,38 +152,38 @@
         [
             "SANTAGUIDA",
             "#JYU28CQJ",
-            1,
+            2,
             2,
             false,
             false,
-            false
+            true
         ],
         [
             "@FANTASMA",
             "#2UUPQGJU2",
-            3,
-            6,
+            4,
+            7,
+            true,
             false,
-            false,
-            false
+            true
         ],
         [
             "Lord Carlo II",
             "#Y2CYPQYC",
-            3,
+            4,
             1,
             false,
             false,
-            false
+            true
         ],
         [
             "JGY -⭐️M@RCIO⭐️",
             "#L0CYU2VG",
-            2,
-            0,
-            false,
-            false,
-            false
+            3,
+            1,
+            true,
+            true,
+            true
         ],
         [
             "⭐️GALHARDO⭐️",
@@ -215,20 +215,20 @@
         [
             "Jackwalker",
             "#990RLQV0",
-            0,
+            1,
             0,
             false,
             false,
-            false
+            true
         ],
         [
             "JR. BASTOS",
             "#9QULP2LL",
+            4,
             3,
-            2,
+            true,
             false,
-            false,
-            false
+            true
         ],
         [
             "Henrique",
@@ -242,11 +242,11 @@
         [
             "Danrley",
             "#PRV8CCJLU",
-            3,
             4,
+            5,
+            true,
             false,
-            false,
-            false
+            true
         ],
         [
             "alpha I",
@@ -269,20 +269,20 @@
         [
             "Lord Carlo",
             "#28Q8GCP0R",
-            3,
+            4,
             2,
             false,
             false,
-            false
+            true
         ],
         [
             "Maninho",
             "#8QL9QV8Y2",
-            3,
+            4,
             1,
             false,
             false,
-            false
+            true
         ],
         [
             "Jhonatan J",
@@ -323,11 +323,11 @@
         [
             "% CORINTHIANO %",
             "#289YQUY9Q",
-            3,
+            4,
             0,
             false,
             false,
-            false
+            true
         ],
         [
             "✔️Matheus✔️",
@@ -341,11 +341,11 @@
         [
             "hypebeast",
             "#GP8J2CG",
-            3,
+            4,
             1,
             false,
             false,
-            false
+            true
         ],
         [
             "•OzzyKiller•™",
@@ -359,29 +359,29 @@
         [
             "geleia29",
             "#PCGY2RLY",
-            1,
+            2,
             0,
-            false,
-            false,
-            false
+            true,
+            true,
+            true
         ],
         [
             "WOLVERINE",
             "#2Y80U8LLC",
-            3,
+            4,
             1,
             false,
             false,
-            false
+            true
         ],
         [
             "Matheus",
             "#9VYJURPPQ",
-            2,
+            3,
             0,
             false,
             false,
-            false
+            true
         ],
         [
             "#Deadpool#",
@@ -413,11 +413,11 @@
         [
             "JACK",
             "#9CV0JU80",
-            1,
+            2,
             0,
             false,
             false,
-            false
+            true
         ]
     ]
 }
