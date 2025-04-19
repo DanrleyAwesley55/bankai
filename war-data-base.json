@@ -73,7 +73,7 @@
             "#8LJRYG9QP",
             3,
             1,
-            false,
+            true,
             false,
             true
         ],
@@ -325,8 +325,8 @@
             "#289YQUY9Q",
             4,
             0,
-            false,
-            false,
+            true,
+            true,
             true
         ],
         [
@@ -342,8 +342,8 @@
             "hypebeast",
             "#GP8J2CG",
             4,
-            1,
-            false,
+            2,
+            true,
             false,
             true
         ],
