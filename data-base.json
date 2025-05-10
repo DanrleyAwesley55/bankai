@@ -66,9 +66,9 @@
             "banned": false,
             "donationReceivedUpdated": false,
             "donationUpdated": false,
-            "donations": 2937,
+            "donations": 2995,
             "donationsReceived": 3825,
-            "lastPollDonation": 88,
+            "lastPollDonation": 58,
             "lastPollReceived": 58,
             "leaveClan": false,
             "name": "Hokz",
@@ -227,7 +227,7 @@
             "leaveClan": false,
             "name": "KOHAKU㊗",
             "tag": "#2RJJL0JQ8",
-            "trophies": 4930,
+            "trophies": 4922,
             "verified": true
         },
         {
@@ -255,7 +255,7 @@
             "leaveClan": false,
             "name": "@FANTASMA",
             "tag": "#2UUPQGJU2",
-            "trophies": 5486,
+            "trophies": 5446,
             "verified": true
         },
         {
@@ -325,7 +325,7 @@
             "leaveClan": false,
             "name": "JR. BASTOS",
             "tag": "#9QULP2LL",
-            "trophies": 5392,
+            "trophies": 5372,
             "verified": true
         },
         {
@@ -344,16 +344,16 @@
         },
         {
             "banned": false,
-            "donationReceivedUpdated": false,
+            "donationReceivedUpdated": true,
             "donationUpdated": true,
             "donations": 11508,
-            "donationsReceived": 5141,
+            "donationsReceived": 5257,
             "lastPollDonation": 904,
-            "lastPollReceived": 0,
+            "lastPollReceived": 116,
             "leaveClan": false,
             "name": "Danrley",
             "tag": "#PRV8CCJLU",
-            "trophies": 5408,
+            "trophies": 5547,
             "verified": true
         },
         {
@@ -493,7 +493,7 @@
             "leaveClan": false,
             "name": "guru",
             "tag": "#JVQLUJ0C",
-            "trophies": 4145,
+            "trophies": 4140,
             "verified": true
         },
         {
@@ -591,7 +591,7 @@
             "leaveClan": false,
             "name": "Rafael",
             "tag": "#UQR002CP",
-            "trophies": 4953,
+            "trophies": 4945,
             "verified": true
         },
         {
