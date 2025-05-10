@@ -115,21 +115,21 @@
             "leaveClan": false,
             "name": "homero",
             "tag": "#8CPGYLVY2",
-            "trophies": 5394,
+            "trophies": 5368,
             "verified": true
         },
         {
             "banned": false,
             "donationReceivedUpdated": true,
-            "donationUpdated": true,
-            "donations": 60,
+            "donationUpdated": false,
+            "donations": 118,
             "donationsReceived": 0,
-            "lastPollDonation": 60,
+            "lastPollDonation": 58,
             "lastPollReceived": 0,
             "leaveClan": false,
             "name": "HayabusA",
             "tag": "#YU9P9ULL",
-            "trophies": 4950,
+            "trophies": 5124,
             "verified": true
         },
         {
@@ -347,13 +347,13 @@
             "donationReceivedUpdated": true,
             "donationUpdated": true,
             "donations": 11596,
-            "donationsReceived": 5315,
+            "donationsReceived": 5373,
             "lastPollDonation": 992,
-            "lastPollReceived": 174,
+            "lastPollReceived": 232,
             "leaveClan": false,
             "name": "Danrley",
             "tag": "#PRV8CCJLU",
-            "trophies": 5659,
+            "trophies": 5619,
             "verified": true
         },
         {
@@ -479,7 +479,7 @@
             "leaveClan": false,
             "name": "JACK",
             "tag": "#9CV0JU80",
-            "trophies": 4966,
+            "trophies": 4958,
             "verified": false
         },
         {
