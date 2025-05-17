@@ -255,7 +255,7 @@
             "leaveClan": false,
             "name": "Lord Carlo II",
             "tag": "#Y2CYPQYC",
-            "trophies": 4820,
+            "trophies": 4813,
             "verified": true
         },
         {
@@ -332,14 +332,14 @@
             "banned": false,
             "donationReceivedUpdated": true,
             "donationUpdated": true,
-            "donations": 16371,
+            "donations": 16459,
             "donationsReceived": 7843,
-            "lastPollDonation": 348,
+            "lastPollDonation": 436,
             "lastPollReceived": 582,
             "leaveClan": false,
             "name": "Danrley",
             "tag": "#PRV8CCJLU",
-            "trophies": 5668,
+            "trophies": 5628,
             "verified": true
         },
         {
@@ -386,16 +386,16 @@
         },
         {
             "banned": false,
-            "donationReceivedUpdated": false,
-            "donationUpdated": false,
+            "donationReceivedUpdated": true,
+            "donationUpdated": true,
             "donations": 3187,
             "donationsReceived": 5253,
-            "lastPollDonation": 59,
-            "lastPollReceived": 88,
+            "lastPollDonation": 0,
+            "lastPollReceived": 0,
             "leaveClan": false,
             "name": "Maninho",
             "tag": "#8QL9QV8Y2",
-            "trophies": 5291,
+            "trophies": 5331,
             "verified": true
         },
         {
